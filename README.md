@@ -2,7 +2,7 @@ Olá, me chamo Paolla Trevisan, tenho 23 anos;
  Sou formada em Tecnico em Quimica, migrei no final de 2022 para o ramo da tecnologia;
  Tive grandes inspirações e desenvolvi uma certa paixão e interessse em desenvolvimento e programação;
  Comecei fazendo curso de JavaScripit na Alura, sem nenhuma base ou conhecimetno na área, tive enormes dificuldades;
- Hoje curso Análise e Desenvolvimento de Sistemas - UNISINOS, aproveitei para fazer cursos por fora e foi então que conheci o Curso em Video;
+ Hoje curso Análise e Desenvolvimento de Sistemas - UNISINOS, aproveitei para fazer cursos e foi então que conheci o Curso em Video;
  Hoje, graças ao curso, tenho conhecimento em:
 - HTML5;
 - CSS3;
